@@ -41,7 +41,7 @@ function initializePlayer(client) {
         .setAuthor({
             name: 'Now Playing',
             iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236664581364125787/music-play.gif?ex=6638d524&is=663783a4&hm=5179f7d8fcd18edc1f7d0291bea486b1f9ce69f19df8a96303b75505e18baa3a&', 
-            url: 'https://discord.gg/xQF9f9yUEM'
+            url: 'https://discord.gg/6zvNYrjzP6'
         })
         .setDescription(`➡️ **Song Name:** [${track.info.title}](${track.info.uri})\n➡️ **Author:** ${track.info.author}\n➡️ **Platforms :** YouTube, Spotify, SoundCloud`)
 
@@ -108,7 +108,7 @@ function initializePlayer(client) {
             .setAuthor({
                     name: 'Queue Loop!',
                     iconURL: 'https://cdn.discordapp.com/attachments/1156866389819281418/1157318080670728283/7905-repeat.gif?ex=66383bb4&is=6636ea34&hm=65f37cf88245f1c09285b547fda57b82828b3bbcda855e184f446d6ff43756b3&', 
-                    url: 'https://discord.gg/xQF9f9yUEM'
+                    url: 'https://discord.gg/6zvNYrjzP6'
                 })
             .setColor("#00FF00")
             .setTitle("**Queue loop is Activated!**")
@@ -122,7 +122,7 @@ function initializePlayer(client) {
                 .setAuthor({
                   name: 'Song Skipped',
                   iconURL: 'https://cdn.discordapp.com/attachments/1156866389819281418/1157269773118357604/giphy.gif?ex=6517fef6&is=6516ad76&hm=f106480f7d017a07f75d543cf545bbea01e9cf53ebd42020bd3b90a14004398e&',
-                  url: 'https://discord.gg/FUEHs7RCqz'
+                  url: 'https://discord.gg/6zvNYrjzP6'
                 })
             .setTitle("**Player will play the next song!**")
             .setTimestamp();
@@ -136,7 +136,7 @@ function initializePlayer(client) {
                 .setAuthor({
                     name: 'Looping Off',
                     iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1230836684774576168/7762-verified-blue.gif?ex=6638b97d&is=663767fd&hm=021725868cbbc66f35d2b980585489f93e9fd366aa57640732dc49e7da9a80ee&', 
-                    url: 'https://discord.gg/xQF9f9yUEM'
+                    url: 'https://discord.gg/6zvNYrjzP6'
                 })
                 .setDescription('**Loop is Disabled for queue and single Song!**');
                   
@@ -175,7 +175,7 @@ for (let i = 0; i < pages.length; i++) {
                 .setAuthor({
                     name: 'Queue Cleared',
                     iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1230836684774576168/7762-verified-blue.gif?ex=6638b97d&is=663767fd&hm=021725868cbbc66f35d2b980585489f93e9fd366aa57640732dc49e7da9a80ee&', 
-                    url: 'https://discord.gg/xQF9f9yUEM'
+                    url: 'https://discord.gg/6zvNYrjzP6'
                 })
                 .setDescription('**Queue Songs cleared sucessfully!**');
                
