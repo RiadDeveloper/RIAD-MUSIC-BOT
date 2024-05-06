@@ -1,7 +1,7 @@
 {
-  "name": "Prime Music",
+  "name": "RIAD-MUSIC-BOT",
   "version": "1.0",
-  "description": "Music Bot",
+  "description": "Power by Riad developer",
   "main": "index.js",
   "dependencies": {
     "discord.js": "^14.15.1",
@@ -13,7 +13,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "GlaceYT",
+  "author": "Riad developer",
   "license": "XX",
   "engines": {
     "node": "20.x"
