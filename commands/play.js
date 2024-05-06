@@ -62,7 +62,7 @@ const embeds = [
         .setAuthor({
             name: 'Request Update!',
             iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236794583732457473/7828-verify-ak.gif?ex=66394e37&is=6637fcb7&hm=923d3f3b300606a2ae4ceb7bae980fd533a4c5ee2cf73111569a892a595f1f69&', 
-            url: 'https://discord.gg/xQF9f9yUEM'
+            url: 'https://discord.gg/6zvNYrjzP6'
         })
         .setDescription('➡️ **Your request has been successfully processed.**\n➡️** Please use the buttons to control the queue**'),
 
